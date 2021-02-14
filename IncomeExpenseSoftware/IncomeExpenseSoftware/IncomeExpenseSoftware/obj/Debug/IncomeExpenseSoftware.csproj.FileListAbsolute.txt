@@ -1,0 +1,13 @@
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\bin\Debug\IncomeExpenseSoftware.exe.config
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\bin\Debug\IncomeExpenseSoftware.exe
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\bin\Debug\IncomeExpenseSoftware.pdb
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.LoginUI.resources
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.Properties.Resources.resources
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.csproj.GenerateResource.Cache
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.exe
+c:\users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.pdb
+C:\Users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.csprojResolveAssemblyReference.cache
+C:\Users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.RegistrationUI.resources
+C:\Users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.HomePage.resources
+C:\Users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.IncomeUI.resources
+C:\Users\hello\documents\visual studio 2015\Projects\IncomeExpenseSoftware\IncomeExpenseSoftware\obj\Debug\IncomeExpenseSoftware.ExpenseUI.resources
